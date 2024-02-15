@@ -1,11 +1,11 @@
-# 🦿 Plain Typescript Boilerplate
+# 🦿 Typescript Express Boilerplate
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Simple boilerplate consisting of Typescript code.
+Simple boilerplate consisting of Typescript code that creates a web server using Express.js
 
 ## Purpose
 
-Use this boilerplate to create simple Typescript applications without any
+Use this boilerplate to create simple Web Services using Typescript without any
 framework dependency getting in the way.
 
 ## Author
