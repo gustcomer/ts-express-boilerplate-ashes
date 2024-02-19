@@ -8,6 +8,11 @@ Simple boilerplate consisting of Typescript code that creates a web server using
 Use this boilerplate to create simple Web Services using Typescript without any
 framework dependency getting in the way.
 
+## Features
+- Tests with *Jest* framework
+- Postgres Database setup with *pg-promise*
+- API calls with *Axios*
+
 ## Author
 
 - [Gustavo Comerlatto](https://github.com/gustcomer)
