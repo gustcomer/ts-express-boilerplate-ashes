@@ -13,6 +13,16 @@ framework dependency getting in the way.
 - Postgres Database setup with *pg-promise*
 - API calls with *Axios*
 
+## Quick Start
+
+Install with `npm install`.
+
+Create the database with `psql -d app -f create.sql`.
+
+Run the server with `npx nodemon src/main.ts`.
+
+Run the tests with `npx jest`.
+
 ## Author
 
 - [Gustavo Comerlatto](https://github.com/gustcomer)
